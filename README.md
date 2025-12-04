@@ -62,7 +62,7 @@ How to upload a project to GitHub
 How to add a .gitignore file
 How to organize a project properly
 
-##🚀 Future Improvements
+## 🚀 Future Improvements
 Add more operations (square, square-root, power, modulus)
 Add input validation for non-numeric values
 Build a GUI version using Tkinter
