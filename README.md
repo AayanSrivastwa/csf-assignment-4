@@ -42,7 +42,7 @@ Assignment-4/
 <img width="1545" height="857" alt="Screenshot 2025-12-04 114123" src="https://github.com/user-attachments/assets/58785ded-e3ad-445b-94b0-c5ecbce0fa77" />
 
 
-💻 Tools Used
+## 💻 Tools Used
 
 Python 3
 
@@ -51,36 +51,24 @@ Visual Studio Code
 Git & GitHub
 
 
-🛠 Learning Outcomes
+## 🛠 Learning Outcomes
 
 While making this project, I learned:
-
 How to create and run a Python program
-
 How to use VS Code for development
-
 How to initialize a Git repository
-
 How to add, commit, and push changes
-
 How to upload a project to GitHub
-
 How to add a .gitignore file
-
 How to organize a project properly
 
-🚀 Future Improvements
-
+##🚀 Future Improvements
 Add more operations (square, square-root, power, modulus)
-
 Add input validation for non-numeric values
-
 Build a GUI version using Tkinter
-
 Improve UI messages and formatting
 
-
-Author
+## Author
 Aayan Srivastwa
 
 2501410049
