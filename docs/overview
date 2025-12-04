@@ -1,0 +1,11 @@
+# Project Overview
+
+This mini project is a simple calculator created as a part of Assignment–4 for the course **Computer Science Fundamentals & Career Pathways**.
+
+The main objective of the project is to understand:
+- basic Python programming
+- how to use Visual Studio Code for development
+- how Git works for version control
+- how to upload and manage a project on GitHub
+
+The calculator supports basic arithmetic operations like addition, subtraction, multiplication, and division. The project was kept simple so that the focus stays on learning the tools and workflow rather than complex coding.
